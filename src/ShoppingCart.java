@@ -23,3 +23,4 @@ void main() {
     System.out.printf("Your shopping cart total is: %.2f  and you chose the current item: %s ", total, item);
 
 }
+
