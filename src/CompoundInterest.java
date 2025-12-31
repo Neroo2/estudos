@@ -26,7 +26,7 @@ void main() {
     IO.println("The result is: " + result);
 
 
-
+    scan.close();
 
 
 }

@@ -23,5 +23,5 @@ void main() {
         IO.println("Invalid option");
     }
 
-
+    scan.close();
 }
